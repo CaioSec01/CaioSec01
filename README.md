@@ -10,7 +10,6 @@ Atualmente curso Redes de Computadores e foco minha carreira em **Cloud Administ
 
 ### 🛠 Tech Stack
 
-**Domínio e em aprendizado:**
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,py,bash,powershell,linux,githubactions,git,vscode,md&theme=dark)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
